@@ -7,7 +7,7 @@ Ubuntu 17.04 Vagrant WMVare Development machine for RocksDB development with Gol
 ```bash
 cd $HOME/Desktop
 git clone https://github.com/topconnector/tc-vmware-ubuntu-zestyzapus64
-cd tc-vmware-ubuntu-zestyzapus64-rocksdb
+cd tc-vmware-ubuntu-zestyzapus64
 ```
 
 You must have the following installed:
